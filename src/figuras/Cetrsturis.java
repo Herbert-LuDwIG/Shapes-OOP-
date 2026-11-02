@@ -7,7 +7,7 @@ public class Cetrsturis {
 	
 	// Constructor overload
 	public Cetrsturis() {
-		punkts = new Centrs(0, 0);
+		punkts = new Centrs(0, 1);
 		platums = 4;
 		augstums = 6;
 	}// Cetrsturis constructor

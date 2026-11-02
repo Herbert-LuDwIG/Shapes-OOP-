@@ -2,7 +2,7 @@ package figuras;
 
 public class Aplis {
 
-	private double radiuss;
+	public double radiuss;
 	public Centrs punkts;
 	
 public Aplis(Centrs punkts, double radiuss) {
